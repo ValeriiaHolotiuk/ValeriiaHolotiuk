@@ -135,6 +135,18 @@ a {
 .btn-outline:hover {
   background: rgba(255, 255, 255, 0.15);
 }
+.btn-cv{
+  background:#f0b52d;
+  color:#111;
+  border:1px solid #f0b52d;
+  font-weight:600;
+}
+
+.btn-cv:hover{
+  background:transparent;
+  color:#f0b52d;
+  transform:translateY(-2px);
+}
 
 .scroll-down {
   position: absolute;
